@@ -1,2 +1,2 @@
 # ProjetoLuta
-Fight project with JS
+Sem a intenção de atacar ninguem, somente entreterimente
